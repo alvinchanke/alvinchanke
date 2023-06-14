@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @alvinchanke
+- 👋 Hi, I’m @alvin
 - 👀 I’m interested in python
 - 🌱 I’m currently learning machine learning structures and AI
 - 💞️ I’m looking to collaborate on ...
